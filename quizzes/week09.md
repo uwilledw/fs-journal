@@ -3,12 +3,12 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+Inheritance is the ability of one object to inherit some or all properties of another object.
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+The singleton design pattern ensures that only one instance of a class exists in a application.
 ```
 **3.** What is the `Observer` design pattern?
 <!-- enter you answer in the space below -->
